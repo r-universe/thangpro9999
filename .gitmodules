@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "splineKANr"]
+	path = splineKANr
+	url = https://github.com/thangpro9999/splinekanr
