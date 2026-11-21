@@ -5,3 +5,6 @@
 [submodule "splineKANr"]
 	path = splineKANr
 	url = https://github.com/thangpro9999/splinekanr
+[submodule "thangldKANr"]
+	path = thangldKANr
+	url = https://github.com/thangpro9999/thangldkanr
